@@ -24759,6 +24759,7 @@ testing_maryam/file_6.jpg
 testing_maryam/file_7.jpg
 testing_maryam/file_8.jpg
 testing_maryam/file_9.jpg
+<<<<<<< HEAD
 testing.py.4f1f304cbd42dd7485a5c0844c3a7ab0.tmp
 10_food_classes_10_percent/test/chicken_curry/838.jpg
 10_food_classes_10_percent/test/chicken_curry/3091.jpg
@@ -30648,3 +30649,5 @@ trainsferlearning/1_percent_data_aug/20230728-021643/validation/events.out.tfeve
 10_food_classes_1_percent.zip
 10_food_classes_1_percent.zip.1
 10_food_classes_10_percent.zip
+=======
+>>>>>>> 29e2fa5fc70514fc9a8cd1ec7ae2889e333649e1
